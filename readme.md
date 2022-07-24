@@ -1,0 +1,22 @@
+///////////lesson 10//////////////
+function
+
+///////////lesson12/////////////
+objects
+
+///////////lesson14/////////////
+events
+onlaod=""
+onchange=""
+onclick=""
+onmouseMove=""
+onmouseDown=""
+
+///////////lesson21//////////////
+strings
+
+///////////lesson22///////////24
+number
+
+///////////lesson25//////////////
+Math
