@@ -51,3 +51,6 @@ press5();
 //round
 //ceil   ustu
 //floor  asty
+
+//Math.max
+//Math.min
